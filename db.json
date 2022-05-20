@@ -2,26 +2,26 @@
     "articles" : [{
         "id": 0,
             "judul": "Akademis",
-            "tanggal": "24 Maret 2022",
+            "tanggal": "24 februari 2022",
             "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/edu.jpg",
+            "image": "./img/alam.jpg",
             "link": "article1.md"
     },
     {
         "id": 1,
             "judul": "kreatifitas",
-            "tanggal": "24 Maret 2022",
+            "tanggal": "2 April 2022",
             "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/edu.jpg",
+            "image": "./img/metal health.jpg",
             "link": "article4.md"
     },
     {
         "id": 2,
-            "judul": "kegemaran",
+            "judul": "Liburan",
             "tanggal": "24 Maret 2022",
             "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/edu.jpg",
-            "link": "article1.md"
+            "image": "./img/Pulau Dewata.jpg",
+            "link": ""
     }
 ]
 }
