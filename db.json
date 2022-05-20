@@ -1,0 +1,27 @@
+{
+    "articles" : [{
+        "id": 0,
+            "judul": "Akademis",
+            "tanggal": "24 Maret 2022",
+            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
+            "image": "./img/edu.jpg",
+            "link": "article1.md"
+    },
+    {
+        "id": 1,
+            "judul": "kreatifitas",
+            "tanggal": "24 Maret 2022",
+            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
+            "image": "./img/edu.jpg",
+            "link": "article4.md"
+    },
+    {
+        "id": 2,
+            "judul": "kegemaran",
+            "tanggal": "24 Maret 2022",
+            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
+            "image": "./img/edu.jpg",
+            "link": "article1.md"
+    }
+]
+}
