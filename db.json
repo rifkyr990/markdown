@@ -1,27 +1,29 @@
 {
-    "articles" : [{
-        "id": 0,
-            "judul": "Akademis",
-            "tanggal": "24 februari 2022",
-            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/alam.jpg",
+   "article": [
+        {
+            "id": 0,
+            "judul": "Minat",
+            "tanggal": "1 Ppril 2022",
+            "deskripsi": "menekuni dalam bidang pendidikan anak usia dini ",
+            "image": "./img/minatanakusiadini.jpeg",
             "link": "article1.md"
-    },
-    {
-        "id": 1,
-            "judul": "kreatifitas",
-            "tanggal": "2 April 2022",
-            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/metal health.jpg",
+        },
+        {
+            "id": 1,
+            "judul": "Komunitas",
+            "tanggal": "10 April 2022",
+            "deskripsi": "Teman Dengar adalah salah satu komunitas kesehatran mental yang saya ikuti",
+            "image": "./img/temanengar.jpeg",
             "link": "article4.md"
-    },
-    {
-        "id": 2,
-            "judul": "Liburan",
-            "tanggal": "24 Maret 2022",
-            "deskripsi": "bidang akademis pendidikan formal dan non formal yang pernah digeluti",
-            "image": "./img/Pulau Dewata.jpg",
-            "link": ""
-    }
-]
+        },
+        {
+            "id": 2,
+            "judul": "Bidang",
+            "tanggal": "13 April 2022",
+            "deskripsi": "Melakukan observasi tentang sebuah bisnis di salah satu Restoran di Yogyakarta",
+            "image": "./img/analisisbisnis.jpeg",
+            "link": "./apb.html"
+        }
+        
+    ]
 }
